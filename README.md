@@ -1,1 +1,1 @@
-# Hafta2
+# Genoma grubunun ödevi de dahil olan repo
